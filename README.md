@@ -103,3 +103,7 @@ database/create_sample_db.py  Regenerates database/business.db
   update `config/settings.py: DB_PATH`, and expect to revisit the
   Text-to-SQL fallback templates and prompts, since both currently assume a
   `sales(sale_date, region, category, product, amount, quantity)` shape.
+
+
+  <img width="901" height="1453" alt="Image copy 2" src="https://github.com/user-attachments/assets/1ae86e3c-1e8b-41fc-9252-222d327d416c" />
+
